@@ -1,0 +1,462 @@
+,Unnamed: 0,word,count,Translation,pos
+0,0,येथे,295,Here,ADV
+1,1,आज,248,Today,NOUN
+2,2,आता,242,Now,ADV
+3,3,येथील,215,Here,ADV
+4,4,जेथे,113,Where,ADV
+5,5,पुढे,98,Forward,ADV
+6,6,दूर,87,Away,ADV
+7,7,सध्या,84,Right now,ADV
+8,8,जवळ,81,Near,ADP
+9,9,सुमारे,69,Around,ADP
+10,10,तेथे,69,There,ADV
+11,11,नंतर,65,Later,ADV
+12,12,दरम्यान,64,Between,ADP
+13,13,काल,63,Yesterday,NOUN
+14,14,बाहेर,60,Out,ADP
+15,15,उद्या,55,Tomorrow,NOUN
+16,16,आधी,52,Before,ADP
+17,17,आजही,52,Even today,NOUN
+18,18,नेहमी,49,Always,NOUN
+19,19,खाली,49,Under,ADP
+20,20,मागे,42,Behind,ADP
+21,21,पुढील,42,Further,ADV
+22,22,समोर,40,In front,NOUN
+23,23,आत,39,Inside,ADP
+24,24,एकदा,34,Once,ADV
+25,25,पुन्हा,34,Again,NOUN
+26,26,मग,34,Then,ADV
+27,27,येथून,30,From here,ADV
+28,28,दरवर्षी,30,Annually,ADV
+29,29,वर,28,On,ADP
+30,30,वाजता,26,At,ADP
+31,31,मध्ये,26,In,ADP
+32,32,सकाळी,25,In the morning,ADV
+33,33,दररोज,25,Everyday,ADV
+34,34,अंतरावर,24,At a distance,NOUN
+35,35,सतत,21,Constant,ADV
+36,36,शेवटी,20,In the end,NOUN
+37,37,लवकरच,19,Soon,ADV
+38,38,पूर्वी,19,In the past,NOUN
+39,39,जवळजवळ,18,Almost,ADV
+40,40,रोज,18,Everyday,ADV
+41,41,जवळच,18,Closely,ADV
+42,42,कधीही,17,Ever,ADV
+43,43,लगेच,17,Immediate,NOUN
+44,44,जिथे,17,Where,ADV
+45,45,कधीकधी,17,Sometimes,ADV
+46,46,मधोमध,16,Middle,NOUN
+47,47,अखेर,16,Eventually,ADV
+48,48,आतापर्यंत,16,So far,NOUN
+49,49,अद्याप,16,Yet,ADV
+50,50,संध्याकाळी,16,Evening,NOUN
+51,51,मागील,16,Previous,ADV
+52,52,आजूबाजूला,15,Around,ADP
+53,53,अजूनही,15,Still,ADV
+54,54,लांब,15,Long,ADV
+55,55,येथेच,13,Here,ADV
+56,56,यंदा,13,This year,NOUN
+57,57,आजसुद्धा,13,Even today,NOUN
+58,58,लगेचच,13,Immediately,ADV
+59,59,जवळून,13,Closely,ADV
+60,60,पूर्वेला,12,The eastward,NOUN
+61,61,वरच्या,12,Upper,ADV
+62,62,पश्चिमेला,11,West,NOUN
+63,63,आधीच,11,Already,ADV
+64,64,दक्षिणेला,11,South,NOUN
+65,65,यावेळी,10,At this time,NOUN
+66,66,रात्री,10,Night,NOUN
+67,67,तेथील,9,There,ADV
+68,68,पुढच्या,9,Next,ADP
+69,69,अजून,8,Yet,ADV
+70,70,जवळपास,8,Around,ADP
+71,71,एकत्र,8,Together,ADV
+72,72,कधी,8,Sometimes,ADV
+73,73,आधीच्या,8,Earlier,ADV
+74,74,जवळजवळचे,7,Unacceptable,ADV
+75,75,उद्यापर्यंत,7,Till now,NOUN
+76,76,वारंवार,7,Frequently,ADV
+77,77,आजूबाजूच्या,7,Around,ADP
+78,78,खोलवर,7,Deeply,NOUN
+79,79,दुपारी,6,Afternoon,NOUN
+80,80,उंचीवर,6,At a height,NOUN
+81,81,उत्तरेला,6,North,NOUN
+82,82,कधीच,6,Never,ADV
+83,83,एकेकाळी,6,Once upon a time,NOUN
+84,84,रोजी,6,On,ADP
+85,85,उशिरा,6,Late,ADV
+86,86,अखेरपर्यंत,6,By the end,ADV
+87,87,त्यानंतर,6,Subsequently,ADV
+88,88,खोल,6,Deeper,NOUN
+89,89,एकीकडे,6,On the one hand,NOUN
+90,90,तोपर्यंत,6,Until then,NOUN
+91,91,प्रथम,5,First,ADV
+92,92,सध्याची,5,Exemplary,ADV
+93,93,वरील,5,Above,ADP
+94,94,दक्षिण,5,South,NOUN
+95,95,खालील,5,Following,ADV
+96,96,तिकडे,5,There,ADV
+97,97,त्यावेळी,5,At that time,NOUN
+98,98,दुसरीकडे,5,On the other hand,NOUN
+99,99,पलिकडे,5,Bey,NOUN
+100,100,जवळचे,5,Close,ADV
+101,101,बाहेरच्या,5,External,ADV
+102,102,तिथे,5,There,ADV
+103,103,सध्याच्या,5,Existing,ADV
+104,104,कधीकाळी,5,Sometimes,ADV
+105,105,अखेरीस,5,In the end,NOUN
+106,106,शेवटपर्यंत,5,To the end,NOUN
+107,107,खालच्या,5,Lower,ADV
+108,108,तेथेच,5,There,ADV
+109,109,तेव्हा,5,When,ADV
+110,110,दिवसेंदिवस,5,Day by day,NOUN
+111,111,दिवसभर,5,Throughout the day,NOUN
+112,112,आजच्या,5,Today,NOUN
+113,113,अलीकडे,4,Recently,ADV
+114,114,बाजूला,4,Side,NOUN
+115,115,जवळच्या,4,Close,ADV
+116,116,अलिकडे,4,Recently,ADV
+117,117,अलिकडेच,4,Recently,ADV
+118,118,अलीकडील,4,Recent,NOUN
+119,119,बाहेरील,4,Outer,NOUN
+120,120,मध्यंतरी,4,Intermediate,NOUN
+121,121,सर्वप्रथम,4,First,ADV
+122,122,मध्यभागी,4,In the middle,NOUN
+123,123,आतमध्ये,4,Inward,NOUN
+124,124,आतच,4,Inside,ADP
+125,125,वेळोवेळी,4,Timely,ADV
+126,126,तेथून,4,From there,ADV
+127,127,तिथून,4,From there,ADV
+128,128,उद्याच,4,Tomorrow,NOUN
+129,129,सुरवातीला,4,Initially,ADV
+130,130,नेहमीच,4,Always,NOUN
+131,131,दूरवर,4,Far,NOUN
+132,132,तत्पूर्वी,4,Before,ADP
+133,133,आजपासून,4,From today,NOUN
+134,134,मध्य,4,Central,ADV
+135,135,सुमारास,4,Around,ADP
+136,136,जवळील,3,Neat,NOUN
+137,137,दक्षिणेत,3,South,NOUN
+138,138,दरम्यानच्या,3,Between,ADP
+139,139,पलीकडे,3,Beyond,ADP
+140,140,त्याकाळी,3,At that time,NOUN
+141,141,सायंकाळी,3,In the evening,ADV
+142,142,नंतरच्या,3,Subsequent,ADV
+143,143,परवा,3,Ton,NOUN
+144,144,ठिकठिकाणी,3,Whereabouts,NOUN
+145,145,पलीकडून,3,Beyond,ADP
+146,146,अगोदर,3,Precedence,NOUN
+147,147,परत,3,Back,ADV
+148,148,तत्काळ,3,Immediate,NOUN
+149,149,सर्वत्र,3,Everywhere,ADV
+150,150,लवकर,3,Early,ADV
+151,151,शेवटच्या,3,Last,ADV
+152,152,कडेला,3,To the side,NOUN
+153,153,मध्यापासून,3,Centrally,ADV
+154,154,मध्यापर्यंत,3,In the middle,NOUN
+155,155,उद्याच्या,3,Of tomorrow,NOUN
+156,156,उद्यापासून,3,From tomorrow,NOUN
+157,157,मध्यात,3,In the middle,NOUN
+158,158,दक्षिणेमध्ये,3,In the south,NOUN
+159,159,यंदाही,3,Too,NOUN
+160,160,मधून,3,Throughly,ADV
+161,161,मधील,3,Between,ADP
+162,162,आतल्या,3,Inner,NOUN
+163,163,आजपर्यंत,3,To this day,NOUN
+164,164,वरून,3,From,ADP
+165,165,आधीची,3,Earlier,ADV
+166,166,लगतच्या,3,Facial,ADV
+167,167,कडे,3,To,ADP
+168,168,मागून,3,By,ADP
+169,169,आजचा,3,Today's,NOUN
+170,170,पुढं,3,Ahead,NOUN
+171,171,कालच,3,Yesterday,NOUN
+172,172,पुढची,3,Next,ADP
+173,173,कालच्या,3,Yesterday,NOUN
+174,174,समोरच,3,In front,NOUN
+175,175,आदल्या,3,Pronounced,ADV
+176,176,पूर्वेकडील,3,East,NOUN
+177,177,आजदेखील,3,Even today,NOUN
+178,178,वरती,3,Above,ADP
+179,179,काहीवेळा,3,Sometimes,ADV
+180,180,पूर्वीच्या,3,Earlier,ADV
+181,181,दक्षिणेस,2,South,NOUN
+182,182,यंदाचे,2,This year,NOUN
+183,183,दीर्घकाळापर्यंत,2,Prolonged,ADV
+184,184,दरमहा,2,Per month,NOUN
+185,185,यंदाच्या,2,Yearly,ADV
+186,186,यावर्षी,2,This year,NOUN
+187,187,वर्षभर,2,Yearly,ADV
+188,188,सुरुवातीला,2,At the beginning,ADV
+189,189,दर,2,Rate,NOUN
+190,190,मागच्या,2,Back,ADV
+191,191,सुरूवातीला,2,At the beginning,ADV
+192,192,यापुढे,2,No longer,NOUN
+193,193,समोरच्या,2,Frontal,NOUN
+194,194,मध्येच,2,In the meantime,NOUN
+195,195,शेजारी,2,Neighbor,NOUN
+196,196,पूर्व,2,East,NOUN
+197,197,वरचा,2,Upper,ADV
+198,198,पूर्वीपासून,2,Sincerely,ADV
+199,199,फॉरवर्ड,2,Forward,ADV
+200,200,नेहमीच्या,2,Usual,ADV
+201,201,नेहमीची,2,Usual,ADV
+202,202,बाहेरून,2,Externally,ADV
+203,203,सामोरे,2,To deal with,NOUN
+204,204,नुकतेच,2,Recently,ADV
+205,205,नुकताच,2,Recently,ADV
+206,206,नित्य,2,Routine,ADV
+207,207,नंतरही,2,Even after,NOUN
+208,208,मगच,2,Only,ADV
+209,209,नंतरचा,2,Subsequent,ADV
+210,210,पाठोपाठ,2,Followed,ADV
+211,211,मध्यम,2,Medium,NOUN
+212,212,शेवट,2,End,NOUN
+213,213,सध्याचे,2,Present,ADV
+214,214,दुरुन,2,Away,ADV
+215,215,आजचे,2,Icing,ADV
+216,216,इथपर्यंत,2,Up to,NOUN
+217,217,अवतीभवती,2,Unprecedented,ADV
+218,218,उत्तर,2,Reply,NOUN
+219,219,आगामी,2,Coming,ADV
+220,220,जवळचा,2,Close,ADV
+221,221,आजकाल,2,Nowadays,NOUN
+222,222,इथल्या,2,Here,ADV
+223,223,आजच,2,Today,NOUN
+224,224,आजूबाजूचे,2,Surrounded,ADV
+225,225,आधीचे,2,Preceding,ADV
+226,226,आधीपासून,2,Already,ADV
+227,227,इथं,2,Here,ADV
+228,228,आजपण,2,Today,NOUN
+229,229,जिथून,2,Where,ADV
+230,230,इकडे,2,Here,ADV
+231,231,जागोजागी,2,Inquiry,NOUN
+232,232,इकडून,2,So,ADV
+233,233,अलीकडच्या,2,Recent,NOUN
+234,234,अलीकडेच,2,Recently,ADV
+235,235,आतून,2,Inside,ADP
+236,236,आतापर्यंतच्या,2,So far,NOUN
+237,237,अलिकडच्या,2,Recent,NOUN
+238,238,उशीरा,2,Late,ADV
+239,239,अन्यत्र,2,Elsewhere,ADV
+240,240,अखेरचा,2,Final,ADV
+241,241,अनेकवेळा,2,Often,ADV
+242,242,उशिराने,2,Late,ADV
+243,243,त्याचवेळी,2,At the same time,NOUN
+244,244,अचानक,2,Sudden,ADV
+245,245,आतील,2,Inner,NOUN
+246,246,आतापासूनच,1,From now on,NOUN
+247,247,योग्यवेळी,1,At the right time,NOUN
+248,248,लवकरच्या,1,Early,ADV
+249,249,रातोरात,1,Overnight,NOUN
+250,250,रात्रभर,1,Overnight,NOUN
+251,251,लगत,1,Adjacent,ADV
+252,252,रोजच्याप्रमाणे,1,As everyday,NOUN
+253,253,लगेचच्याच,1,Immediate,NOUN
+254,254,रात्रीचे,1,Nightmare,NOUN
+255,255,आत्तापर्यंत,1,Until now,NOUN
+256,256,आत्तापर्यंतचा,1,Till now,NOUN
+257,257,आधीपर्यंत,1,By the time,NOUN
+258,258,रोजच्या,1,Everyday,ADV
+259,259,आधीचा,1,Preceding,ADV
+260,260,आमने,1,To have,ADV
+261,261,येथेही,1,Even here,ADV
+262,262,दक्षिणेमधील,1,In the south,NOUN
+263,263,आसपास,1,Around,ADP
+264,264,येथूनही,1,From here,ADV
+265,265,एकदम,1,Solely,ADV
+266,266,मध्यरात्रीपर्यंत,1,Until midnight,NOUN
+267,267,उद्याही,1,Tomorrow,NOUN
+268,268,उत्तरेस,1,North,NOUN
+269,269,उत्तरेतील,1,North,NOUN
+270,270,मध्यावर,1,In the middle,NOUN
+271,271,उत्तरेत,1,North,NOUN
+272,272,उत्तरेच्या,1,North,NOUN
+273,273,मागं,1,Back,ADV
+274,274,उत्तरेकडे,1,North,NOUN
+275,275,उत्तरेकडील,1,Northern,NOUN
+276,276,उत्तरार्धात,1,In the second half,NOUN
+277,277,मागेमागे,1,Backward,NOUN
+278,278,उंचावरून,1,Highly,ADV
+279,279,यंदाचा,1,This year,NOUN
+280,280,इथे,1,Here,ADV
+281,281,यादरम्यान,1,Between,ADP
+282,282,लांबूनच,1,Extended,ADV
+283,283,यापूर्वी,1,Before,ADP
+284,284,इथ,1,Ethe,NOUN
+285,285,इतरत्र,1,Elsewhere,ADV
+286,286,लांबून,1,Longly,ADV
+287,287,वरवर,1,Unprecedented,ADV
+288,288,लागूनच,1,By,ADP
+289,289,लागोपाठच्या,1,Premature,NOUN
+290,290,संगमाजवळ,1,Close,ADV
+291,291,आजची,1,Today's,NOUN
+292,292,सगळीकडे,1,Everywhere,ADV
+293,293,सदैव,1,Always,NOUN
+294,294,सद्यस्थितीत,1,At present,NOUN
+295,295,सध्याचा,1,Present,ADV
+296,296,आग्नेयेला,1,Southeast,NOUN
+297,297,अशावेळीही,1,Even at this time,NOUN
+298,298,समयी,1,Time,NOUN
+299,299,समोरच्याच,1,Front,NOUN
+300,300,समोरासमोर,1,Face -to -face,NOUN
+301,301,अलिकडील,1,Recent,NOUN
+302,302,सामने,1,Mattress,NOUN
+303,303,सुमरे,1,Camere,ADV
+304,304,अद्यापही,1,Still,ADV
+305,305,अद्यापपर्यंत,1,Yet,ADV
+306,306,सुरवातीच्या,1,Preliminary,ADV
+307,307,सुरुवातीच्या,1,Initial,ADV
+308,308,अखेरच्या,1,Final,ADV
+309,309,सुरुवातीलाच,1,Initial,ADV
+310,310,सुरूवातीपासूनच,1,From the beginning,ADV
+311,311,सुरूवातीलाच,1,Underway,NOUN
+312,312,सूर्योदयापूर्वीच,1,Before the sunrise,NOUN
+313,313,आजतागायत,1,Today,NOUN
+314,314,शेवटही,1,End,NOUN
+315,315,आजपर्यंतची,1,Astonish,ADV
+316,316,वर्षानुवर्षापासून,1,Yearly,ADV
+317,317,आतापासून,1,From now on,NOUN
+318,318,वरचे,1,Upstairs,NOUN
+319,319,वरचेवर,1,Upper,ADV
+320,320,आतादेखील,1,Even now,NOUN
+321,321,आताच्या,1,Present,ADV
+322,322,वरपर्यंत,1,Upward,ADV
+323,323,एकवार,1,Once,ADV
+324,324,आताचे,1,Now,ADV
+325,325,आताच,1,Now,ADV
+326,326,आतमधे,1,Intestinal,ADV
+327,327,वर्षानुवर्षे,1,Years,NOUN
+328,328,शेवटचा,1,Last,ADV
+329,329,आतपर्यंत,1,Inward,NOUN
+330,330,विरुद्ध,1,Contrary,ADV
+331,331,वेळेत,1,In time,NOUN
+332,332,आजवरच्या,1,Annoying,ADV
+333,333,शतकानुशतके,1,Centuries,NOUN
+334,334,शेजारच्या,1,Neighbor,NOUN
+335,335,आजवरची,1,Today,NOUN
+336,336,शेजारील,1,Neighboring,ADV
+337,337,शेजारून,1,Neighbor,NOUN
+338,338,आजमितीला,1,Today,NOUN
+339,339,एकदाच,1,Once,ADV
+340,340,मधेच,1,Between,ADP
+341,341,मधोंमध,1,Honey,NOUN
+342,342,दक्षिणेपर्यंत,1,South,NOUN
+343,343,नंतरची,1,Latter,NOUN
+344,344,ठिकठिकाणांवर,1,At the scene,NOUN
+345,345,ज्यावेळी,1,At times,NOUN
+346,346,नजीकच्या,1,Near,ADP
+347,347,जेव्हापासून,1,Ever since,NOUN
+348,348,नुकतंच,1,Recently,ADV
+349,349,जेव्हा,1,When,ADV
+350,350,जेथून,1,Out,ADP
+351,351,जिथपर्यंत,1,Where to,NOUN
+352,352,जिकडे,1,All,ADV
+353,353,नेहमीपेक्षा,1,Than usual,ADV
+354,354,नेहमीप्रमाणे,1,As usual,ADV
+355,355,जवळपासच,1,Around,ADP
+356,356,जवळजवळच्या,1,Unaccountable,ADV
+357,357,परवापरवापर्यंत,1,Until the permits,NOUN
+358,358,पर्यंत,1,Up to,NOUN
+359,359,पर्यत,1,Uphill,NOUN
+360,360,पर्वा,1,Regardless,ADV
+361,361,जवळचेच,1,Neat,NOUN
+362,362,पलीकडचे,1,Beyond,ADP
+363,363,पलीकडच्या,1,Beyond,ADP
+364,364,गतवर्षी,1,Last year,ADV
+365,365,पश्चिमी,1,Western,ADV
+366,366,खालोखाल,1,Below,ADP
+367,367,पश्चिमेस,1,On the west,ADV
+368,368,पश्‍चिम,1,West,NOUN
+369,369,पश्‍चिमेकडच्या,1,Nest,ADV
+370,370,डावीकडे,1,Left,ADV
+371,371,नंतरच,1,Only,ADV
+372,372,तत्कालीन,1,Subsequent,ADV
+373,373,तिथं,1,There,ADV
+374,374,दक्षिणकडे,1,South,NOUN
+375,375,थेट,1,Directly,ADV
+376,376,त्वरित,1,Urgent,NOUN
+377,377,त्याप्रसंगी,1,In the meantime,NOUN
+378,378,दरम्यानच,1,In the meantime,NOUN
+379,379,त्याकाळच्या,1,Period,NOUN
+380,380,त्याकाळची,1,At that time,NOUN
+381,381,तोपर्यंतच,1,Until then,NOUN
+382,382,तेव्हाचे,1,Of those,ADV
+383,383,तेवढ्यात,1,In the meantime,NOUN
+384,384,तिथल्या,1,In,ADP
+385,385,दुरवर,1,Over,ADP
+386,386,दुसरा,1,Another,ADV
+387,387,दोनवेळा,1,Twice,ADV
+388,388,तिकडेच,1,There,ADV
+389,389,ताबडतोब,1,Immediately,ADV
+390,390,दूरच,1,Far away,NOUN
+391,391,दूरचेच,1,Distant,NOUN
+392,392,दूरदूरपर्यंत,1,Far away,NOUN
+393,393,दूरदूरहून,1,Far from,NOUN
+394,394,तत्पूर्वीच,1,Already,ADV
+395,395,दूरवरचा,1,Distant,NOUN
+396,396,दूरवरच्या,1,Far -reaching,NOUN
+397,397,दूरवरून,1,Farfetly,ADV
+398,398,दूरून,1,Far,NOUN
+399,399,दूरूनच,1,Far from,NOUN
+400,400,पश्‍चिमेकडील,1,West,NOUN
+401,401,पहिले,1,First,ADV
+402,402,पहिल्यांदा,1,For the first time,NOUN
+403,403,बाहेरपर्यंत,1,Exterior,NOUN
+404,404,प्रथमच,1,For the first time,NOUN
+405,405,कालचीच,1,Timid,NOUN
+406,406,बघताक्षणी,1,At the same time,NOUN
+407,407,बरोबर,1,Well,ADV
+408,408,बहुतेकवेळा,1,Mostly,ADV
+409,409,बाजूने,1,Side,NOUN
+410,410,कालचं,1,Yesterday,NOUN
+411,411,कानाकोपर्‍यात,1,Early,ADV
+412,412,बाहेरच,1,Outdoor,NOUN
+413,413,बाहेरचे,1,External,ADV
+414,414,काठोकाठ,1,Surrounded,ADV
+415,415,बाहेरच्यांशी,1,Outsiders,NOUN
+416,416,कधी-कधी,1,Sometimes,ADV
+417,417,प्रतिवर्षी,1,Annually,ADV
+418,418,बाहेरुन,1,Externally,ADV
+419,419,कडेच्या,1,Core,NOUN
+420,420,बाहेरूनही,1,Externally,ADV
+421,421,भूतकाळात,1,In the past,NOUN
+422,422,भोवती,1,Around,ADP
+423,423,ऐनवेळी,1,At the time,NOUN
+424,424,एकामागोमाग,1,Reciprocate,NOUN
+425,425,मघापासून,1,Dilute,NOUN
+426,426,मधलीच,1,Middle,NOUN
+427,427,मधल्या,1,Middle,NOUN
+428,428,एकवेळेला,1,Unanimous,ADV
+429,429,एकवेळा,1,One -time,NOUN
+430,430,कालपरवापर्यंत,1,Up to the time of time,NOUN
+431,431,प्रतिदिन,1,Day,NOUN
+432,432,पाठीमागे,1,Backward,NOUN
+433,433,पुनःपुन्हा,1,Again,NOUN
+434,434,खालून,1,Under,ADP
+435,435,पाठोमागच्या,1,Under,ADP
+436,436,खालीवर,1,Underneath,ADP
+437,437,खालपर्यंत,1,Underneath,ADP
+438,438,पुढचे,1,Front,NOUN
+439,439,खालचे,1,Low,ADV
+440,440,पुढच्याच,1,Next,ADP
+441,441,पुढल्या,1,Next,ADP
+442,442,खालचा,1,Low,ADV
+443,443,पुढीलप्रमाणे,1,Further,ADV
+444,444,क्षणार्धात,1,Ethly,ADV
+445,445,पुढेदेखील,1,Forward,ADV
+446,446,क्वचित,1,Rarely,ADV
+447,447,पैकी,1,Out,ADP
+448,448,केव्हाही,1,Anytime,ADV
+449,449,केव्हाच,1,When,ADV
+450,450,पूर्वीच,1,Before,ADP
+451,451,पूर्वीचीच,1,Preceding,ADV
+452,452,कुठेकुठे,1,Wherever,ADV
+453,453,कालांतराने,1,Periodically,ADV
+454,454,पूर्वीपेक्षा,1,Than before,NOUN
+455,455,पूर्वेकडचा,1,East,NOUN
+456,456,कालबाह्य,1,Outdated,ADV
+457,457,पूर्वेकडे,1,Eastward,NOUN
+458,458,कालपासून,1,Since yesterday,NOUN
+459,459,पूर्वेस,1,East,NOUN
+460,460,हल्ली,1,Lately,ADV

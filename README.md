@@ -4,7 +4,8 @@ This treebank is a modified version of the <a href= https://github.com/Universal
 
 # Introduction
 
-The sentences are based on treebanks released by  <a href= https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/ > KCIS, IIIT-Hyderabad </a>. The primary goal of this version is to provide a clean, validated treebank by fixing structural inconsistencies, morphological feature errors, and dependency relation violations in the <a href= https://github.com/UniversalDependencies/UD_Marathi-CMUPAN/tree/dev> UD_Marathi-CMUPAN </a>. The corrections were performed using python script-based semi-automatic logics. (For eg. Identifying and fixing invalid upos-deeprel, correcting lemmas, correcting/removing invalid morphological feature, etc). For transliteration <a href= https://github.com/indic-transliteration/indic_transliteration_py> Indic Transliteration python library </a> was used. 
+The sentences are based on treebanks released by <a href= https://ltrc.iiit.ac.in/showfile.php> KCIS, IIIT-Hyderabad </a>
+. The primary goal of this version is to provide a clean, validated treebank by fixing structural inconsistencies, morphological feature errors, and dependency relation violations in the <a href= https://github.com/UniversalDependencies/UD_Marathi-CMUPAN/tree/dev> UD_Marathi-CMUPAN </a>. The corrections were performed using python script-based semi-automatic logics. (For eg. Identifying and fixing invalid upos-deeprel, correcting lemmas, correcting/removing invalid morphological feature, etc). For transliteration <a href= https://github.com/indic-transliteration/indic_transliteration_py> Indic Transliteration python library </a> was used. 
 
 # Acknowledgments
 

@@ -1,16 +1,16 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+This treebank is a modified version of the <a href= https://github.com/UniversalDependencies/UD_Marathi-CMUPAN/tree/dev> UD_Marathi-CMUPAN </a> treebank. It addresses several validation errors present in the original treebank through semi-automatic correction to ensure compliance with Universal Dependencies standards.
 
 # Introduction
 
-...
-
+The sentences are based on treebanks released by  <a href= https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/ > KCIS, IIIT-Hyderabad </a>. The primary goal of this version is to provide a clean, validated treebank by fixing structural inconsistencies, morphological feature errors, and dependency relation violations in the <a href= https://github.com/UniversalDependencies/UD_Marathi-CMUPAN/tree/dev> UD_Marathi-CMUPAN </a>. The corrections were performed using python script-based semi-automatic logics. (For eg. Identifying and fixing invalid upos-deeprel, correcting lemmas, correcting/removing invalid morphological feature, etc). For transliteration <a href= https://github.com/indic-transliteration/indic_transliteration_py> Indic Transliteration python library </a> was used. 
 
 # Acknowledgments
 
-...
+The treebank was Semi-Automatically corrected by Pranav Kushare. Supervision and revision by Luigi Talamo, Annemarie Verkerk, Helena Vaz.
+
+
 
 ## References
 
@@ -19,23 +19,24 @@
 
 # Changelog
 
-* 2019-11-15 v2.5
+* 2026-05-15 v2.18
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.5
+Data available since: UD v2.18
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: nonfiction news
-Lemmas: converted from manual
-UPOS: converted from manual
-XPOS: manual native
-Features: converted from manual
-Relations: converted from manual
-Contributors: Sarma, Shikhar
-Contributing: elsewhere
-Contact: sks001@gmail.com
+Parallel: no
+Genre: agriculture, grammar, general, tourism
+Lemmas: converted from automatic
+UPOS: converted from automatic
+XPOS: converted from automatic
+Features: converted from automatic
+Relations: converted from automatic
+Contributors: Kushare, Pranav; Talamo, Luigi; Verkerk, Annemarie; Vaz, Helena
+Contributing: here
+Contact: luigi.talamo@uni-saarland.de
 ===============================================================================
 </pre>

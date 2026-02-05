@@ -11,7 +11,11 @@ The sentences are based on treebanks released by KCIS, IIIT-Hyderabad . The prim
 
 Marathi-Discourse: The corpus also contains 35 Discourse sentences. Data for this is sourced from the official Marathi translation of Prime Minister (of India) Narendra Modi’s address to the nation regarding the COVID-19 pandemic, delivered on May 12, 2020.
 
+To maintain traceability, each sentence ID in the carries a specific prefix:
 
+*cmupan_*: Sentences from the CMU/IIIT-Hyderabad treebank.
+
+*DISC_*: Discourse sentences.
 
 
 # Acknowledgments
